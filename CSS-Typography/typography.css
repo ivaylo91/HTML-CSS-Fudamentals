@@ -1,0 +1,12 @@
+html {
+    font: 16px/1.5 "Playfair Display", Helvetica, Verdana, sans-serif;
+
+}
+
+body, input, textarea, option, select, table, form {
+    font: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
